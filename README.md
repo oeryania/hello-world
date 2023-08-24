@@ -1,14 +1,14 @@
 # hello-world
 
-## github markedown test
+## markdown test
 
-Hi, my name is *Osama Al-Eryani*.
+Hi, my name is Osama Al-Eryani.
 
 - I used `git` before, but I never used **github**.
 
 ---
 
-Let's see where we will go.
+Let's see where we will *go*.
 1. forward
 2. backward
 3. sideways
