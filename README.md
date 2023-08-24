@@ -12,8 +12,8 @@ Let's see where we will go.
 2. backward
 3. sideways
 
-[LinkedIn](https://www.linkedin.com/in/oeryani]
+[LinkedIn](https://www.linkedin.com/in/oeryani)
 
-![profile picture(https://media.licdn.com/dms/image/C4D03AQEAedD_VLWxtw/profile-displayphoto-shrink_800_800/0/1619589372650?e=2147483647&v=beta&t=VeEtj73vL5D2D2WoSlG_KUykthcjChK5GigR4gG02SY)
+![profile picture](https://media.licdn.com/dms/image/C4D03AQEAedD_VLWxtw/profile-displayphoto-shrink_800_800/0/1619589372650?e=2147483647&v=beta&t=VeEtj73vL5D2D2WoSlG_KUykthcjChK5GigR4gG02SY)
 
 Take off! 🚀
