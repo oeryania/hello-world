@@ -2,8 +2,9 @@
 
 ## github tutorial repo
 
-Hi, my name is *Osama Al-Eryani*
-I used `git` before, but I never used **github**.
+Hi, my name is *Osama Al-Eryani*.
+
+- I used `git` before, but I never used **github**.
 
 ---
 
